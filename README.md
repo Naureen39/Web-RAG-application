@@ -44,6 +44,3 @@ GROQ_API_KEY=<your_groq_api_key>
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any bugs or feature requests.
-
-## License
-This project is licensed under the MIT License.
