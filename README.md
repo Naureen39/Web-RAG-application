@@ -12,7 +12,7 @@ Web Rag Assistant is a Python-based application designed to automate web scrapin
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Naureen39/Web-RAG-application.git
    ```
 2. Navigate to the project directory:
    ```bash
